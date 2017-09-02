@@ -1,4 +1,4 @@
-# awesome python projects for freshman
+# awesome Mini python projects for freshman
 
 ## What's this?
 
