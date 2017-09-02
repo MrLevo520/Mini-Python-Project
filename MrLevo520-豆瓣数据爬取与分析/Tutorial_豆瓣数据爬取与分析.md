@@ -1,8 +1,6 @@
 ***From [Python自定义豆瓣电影种类，排行，点评的爬取与存储（初级）](http://blog.csdn.net/mrlevo520/article/details/51966992)***
 
- 更多豆瓣系列文章请看
-
-[豆瓣数据爬取与分析及gui的制作](http://blog.csdn.net/column/details/16324.html)
+> 更多豆瓣系列文章请看→_→[豆瓣数据爬取与分析及gui的制作](http://blog.csdn.net/column/details/16324.html)
 
 - Python  2.7
 - IDE Pycharm 5.0.3
@@ -308,12 +306,12 @@ Q:  补充，**长评论的抓取**
 
 致谢
 --
-[@MrLevo520--伪解决Selenium中调用PhantomJS无法模拟点击(click)操作](http://blog.csdn.net/mrlevo520/article/details/51958161)
-[@MrLevo520--Python输出(print)内容写入txt中保存](http://blog.csdn.net/mrlevo520/article/details/51967311)
-[@MrLevo520--解决网页元素无法定位（NoSuchElementException: Unable to locate element）的几种方法  ](http://blog.csdn.net/mrlevo520/article/details/51954203)
-[@Eastmount--[Python爬虫] Selenium+Phantomjs动态获取CSDN下载资源信息和评论 ](http://blog.csdn.net/eastmount/article/details/47907341)
-[@Eastmount--[Python爬虫] 在Windows下安装PIP+Phantomjs+Selenium ](http://blog.csdn.net/eastmount/article/details/47785123)
-[@MrLevo520--解决Selenium弹出新页面无法定位元素问题（Unable to locate element）](http://blog.csdn.net/mrlevo520/article/details/51926145)
+- [@MrLevo520--伪解决Selenium中调用PhantomJS无法模拟点击(click)操作](http://blog.csdn.net/mrlevo520/article/details/51958161)
+- [@MrLevo520--Python输出(print)内容写入txt中保存](http://blog.csdn.net/mrlevo520/article/details/51967311)
+- [@MrLevo520--解决网页元素无法定位（NoSuchElementException: Unable to locate element）的几种方法  ](http://blog.csdn.net/mrlevo520/article/details/51954203)
+- [@Eastmount--[Python爬虫] Selenium+Phantomjs动态获取CSDN下载资源信息和评论 ](http://blog.csdn.net/eastmount/article/details/47907341)
+- [@Eastmount--[Python爬虫] 在Windows下安装PIP+Phantomjs+Selenium ](http://blog.csdn.net/eastmount/article/details/47785123)
+- [@MrLevo520--解决Selenium弹出新页面无法定位元素问题（Unable to locate element）](http://blog.csdn.net/mrlevo520/article/details/51926145)
 
 
 
