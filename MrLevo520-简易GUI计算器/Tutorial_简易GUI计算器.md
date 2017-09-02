@@ -1,7 +1,7 @@
 ***From  [Python基于Tkinter的二输入规则器(乞丐版)](http://blog.csdn.net/mrlevo520/article/details/51812096)***
 
-Python 2.7
-IDE Pycharm 5.0.3
+- Python 2.7
+- IDE Pycharm 5.0.3
 
 ------
 
