@@ -18,7 +18,7 @@
 
 
 
-## About homework
+## About Further Project
 
 - 对于想对项目进行练习并且展示的童鞋，你可以在该项目的子类下提交自己的项目文件夹，欢迎对项目进行延伸和加入自己的想法并提交，更更多的童鞋展示你不一样的想法~
 - 提交方式：请在相应project下的furtherProject文件夹下进行提交，提交方式请阅读furtherProject文件夹中的提交方式.md文件
@@ -28,7 +28,7 @@
 
 
 
-## Join us
+## Join US
 
 - 这是一个开源项目，只要你有想法，并且付诸实践，欢迎进行tutorial的提交，我会以最短的时间内进行回复，希望能遇到各路大神和有趣的项目共同学习
 - 提交方式：希望tutorial有以下几个主要板块构成，书写请用markdown，推荐一个编辑器Typora
