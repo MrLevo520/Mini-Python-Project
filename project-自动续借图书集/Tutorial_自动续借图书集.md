@@ -1,3 +1,12 @@
+From 
+
+- [Selenium+PhantomJS自动续借图书馆书籍（上)](http://blog.csdn.net/mrlevo520/article/details/51924757)
+
+- [Selenium+PhantomJS自动续借图书馆书籍（下)](http://blog.csdn.net/mrlevo520/article/details/51930741)
+
+
+----
+
 - Python 2.7 
 - IDE Pycharm 5.0.3
 - Firefox浏览器：47.0.1
