@@ -1,4 +1,4 @@
-From- [数据向：我到底是谁的歌迷？](http://blog.csdn.net/mrlevo520/article/details/74908066)
+***From- [数据向：我到底是谁的歌迷？](http://blog.csdn.net/mrlevo520/article/details/74908066)***
 
 
 MacOS Sierra 10.12.1
@@ -8,15 +8,15 @@ phantomjs 忘了
 
 ----
 
-##前言
+## 前言
 
 > 发现自己有时候比挖掘别人来的更加有意义，自己到底喜欢谁的歌，自己真的知道么？习惯不会骗你
 
 -----
 
-##搭建爬虫环境
+## 搭建爬虫环境
 
-###1.安装selenium
+### 1.安装selenium
 
 ```shell
 pip install selenium
@@ -26,8 +26,8 @@ pip install selenium
 
 
 
-###2.安装Phantomjs   
-####Mac版本
+### 2.安装Phantomjs   
+#### Mac版本
 
 ```
 步骤一下载包：去这里下载对应版本http://phantomjs.org/download.html
@@ -62,7 +62,7 @@ mac若遇到问题请参考[PhantomJS 安装](https://segmentfault.com/a/1190000
 
 
 
-###测试安装是否成功
+### 测试安装是否成功
 
 ```
 # 进入python环境后执行如下操作
@@ -245,7 +245,7 @@ if __name__ == '__main__':
 
 ---
 
-###自定义遮罩层版本
+### 自定义遮罩层版本
 
 ```python
 # -*- coding: utf-8 -*-
@@ -302,7 +302,7 @@ wc.to_file('mymusic2.png')  # 把词云保存下来
 ![这里写图片描述](http://img.blog.csdn.net/20170710011012839?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTXJMZXZvNTIw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
-###方块版本
+### 方块版本
 
 
 ```
@@ -362,7 +362,7 @@ wc.to_file('mymusic2.png')  # 把词云保存下来
 
 ---
 
-##SHOW数据-ROUND2
+## SHOW数据-ROUND2
 
 > 刚看到个好玩的，迫不及待的试了下，这是关于语种翻译的API接口，阿里云买的，0.01=1000条，买买买，买来玩玩试试自己歌曲语种
 
@@ -487,7 +487,7 @@ option = {
 ```
 
 ------
-##Pay Attention
+## Pay Attention
 
   1. 这里遇到的最大问题，就是网易云的网页竟然还iframe框来做！！！不切入那个内联框架连phantomjs都无能为力！！这是最值得注意的一点，即使你找对了元素，也可能获取不到值！
 
@@ -496,7 +496,7 @@ option = {
   4. 有些win的小伙伴反应路径都加载对了，但是还是找不到exe，那么请在路径前面加r比如 `executable_path=r"F:\Python\phantomjs-1.9.1-windows\phantomjs.exe"`
 
 ----
-##结论
+## 结论
 
 > 果然一下子就看出是上个世纪九十年代的人（：，还有就是，音乐不分国界，就是动感~
 
@@ -525,7 +525,7 @@ option = {
 [@Alfred--一件有趣的事：用Python 爬了爬自己的微信朋友](https://mp.weixin.qq.com/s/0Bw8QUo1YfWZR_Boeaxu_Q)
 [@Eastmount--Python爬虫 Selenium实现自动登录163邮箱和Locating Elements介绍](http://blog.csdn.net/eastmount/article/details/47825633)
 
-##附录
+## 附录
 > 对照表
 
 ![这里写图片描述](http://img.blog.csdn.net/20170814124806754?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTXJMZXZvNTIw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
