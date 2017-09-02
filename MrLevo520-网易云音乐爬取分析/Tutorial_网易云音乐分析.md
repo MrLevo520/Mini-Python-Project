@@ -1,10 +1,10 @@
 ***From- [数据向：我到底是谁的歌迷？](http://blog.csdn.net/mrlevo520/article/details/74908066)***
 
 
-MacOS Sierra 10.12.1
-Python 2.7
-selenium  3.4.3
-phantomjs 忘了
+- MacOS Sierra 10.12.1
+- Python 2.7
+- selenium  3.4.3
+- phantomjs 忘了
 
 ----
 
@@ -504,11 +504,9 @@ option = {
 
 ## 最后
 
-> 关于phantomjs和selenium的做过很多，大家可以自己参考我以前的几篇博客:[用python做些有趣的事情](http://blog.csdn.net/MrLevo520/article/category/6321608),这次也只是我要搞的大事情里面的其中一件，抽离出来，要是专栏能申请下来，我会为网易云音乐专门分析一波，毕竟网易云音乐做的的确不错
+> 关于phantomjs和selenium的做过很多，大家可以自己参考我以前的几篇博客:[用python做些有趣的事情](http://blog.csdn.net/MrLevo520/article/category/6321608)
 
 
-
-------
 
 
 
@@ -516,14 +514,14 @@ option = {
 
 
 
-@爱搞事情的自己
+- @爱搞事情的自己
 
-[@Eastmoun--在Windows下安装PIP+Phantomjs+Selenium](http://blog.csdn.net/eastmount/article/details/47785123)
+- [@Eastmoun--在Windows下安装PIP+Phantomjs+Selenium](http://blog.csdn.net/eastmount/article/details/47785123)
 
-[@mrlevo520--Python+Selenium+PIL+Tesseract真正自动识别验证码进行一键登录](http://blog.csdn.net/mrlevo520/article/details/51901579)
+- [@mrlevo520--Python+Selenium+PIL+Tesseract真正自动识别验证码进行一键登录](http://blog.csdn.net/mrlevo520/article/details/51901579)
 
-[@Alfred--一件有趣的事：用Python 爬了爬自己的微信朋友](https://mp.weixin.qq.com/s/0Bw8QUo1YfWZR_Boeaxu_Q)
-[@Eastmount--Python爬虫 Selenium实现自动登录163邮箱和Locating Elements介绍](http://blog.csdn.net/eastmount/article/details/47825633)
+- [@Alfred--一件有趣的事：用Python 爬了爬自己的微信朋友](https://mp.weixin.qq.com/s/0Bw8QUo1YfWZR_Boeaxu_Q)
+- [@Eastmount--Python爬虫 Selenium实现自动登录163邮箱和Locating Elements介绍](http://blog.csdn.net/eastmount/article/details/47825633)
 
 ## 附录
 > 对照表
