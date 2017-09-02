@@ -356,11 +356,11 @@ root.mainloop()
 
 ----------
 
-灵感来源与致谢
+致谢
 ----
-[@崔庆才--Python爬虫实战七之计算大学本学期绩点](http://cuiqingcai.com/997.html)
-[@崔庆才--Python爬虫利器五之Selenium的用法](http://cuiqingcai.com/2599.html)
-[@崔庆才--Python爬虫利器四之PhantomJS的用法](http://cuiqingcai.com/2577.html)
-[@milkty--webdriver（python）学习笔记一 ](http://www.cnblogs.com/kongzhongqijing/p/3532082.html?utm_source=tuicool&utm_medium=referral)
-[@buptlrw--Python抓取网页动态数据——selenium webdriver的使用 ](http://blog.csdn.net/buptlrw/article/details/48828201)
+- [@崔庆才--Python爬虫实战七之计算大学本学期绩点](http://cuiqingcai.com/997.html)
+- [@崔庆才--Python爬虫利器五之Selenium的用法](http://cuiqingcai.com/2599.html)
+- [@崔庆才--Python爬虫利器四之PhantomJS的用法](http://cuiqingcai.com/2577.html)
+- [@milkty--webdriver（python）学习笔记一 ](http://www.cnblogs.com/kongzhongqijing/p/3532082.html?utm_source=tuicool&utm_medium=referral)
+- [@buptlrw--Python抓取网页动态数据——selenium webdriver的使用 ](http://blog.csdn.net/buptlrw/article/details/48828201)
 
