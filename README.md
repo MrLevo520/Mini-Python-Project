@@ -23,6 +23,8 @@
 - 对于想对项目进行练习并且展示的童鞋，你可以在该项目的子类下提交自己的项目文件夹，欢迎对项目进行延伸和加入自己的想法并提交，更更多的童鞋展示你不一样的想法~
 - 提交方式：请在相应project下的furtherProject文件夹下进行提交，提交方式请阅读furtherProject文件夹中的提交方式.md文件
 
+> 例子可以看这里 [使用github进行项目管理与提交](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86/Tutorial_%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86.md)
+
 
 
 
