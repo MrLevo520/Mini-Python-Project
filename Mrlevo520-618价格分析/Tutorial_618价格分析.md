@@ -132,7 +132,7 @@ for shopname in shop.keys():
 开搞-数据分析
 ----
 
-> 这里就用到了前端的一点点知识了，你可以不用理解这是搞的什么，替换数据会不会？可以参考我写的一点小白教程[echarts小白入门](http://blog.csdn.net/mrlevo520/article/details/54603300)实在自己懒得写的话，我写好了，你不会懒得下载吧[echarts演示价格趋势](http://download.csdn.net/detail/mrlevo520/9879581)
+> 这里就用到了前端的一点点知识了，你可以不用理解这是搞的什么，替换数据会不会？可以参考我写的一点小白教程[echarts小白入门](http://blog.csdn.net/mrlevo520/article/details/54603300)实在自己懒得写的话，我写好了，你不会懒得下载吧[echarts演示价格趋势](http://download.csdn.net/detail/mrlevo520/9879581),如果想线上访问，请看这里[echarts价格趋势](https://mrlevo520.github.io/Mini-Python-Project//Mrlevo520-618%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90/showData/618echarts_show.html)
 
 ![这里写图片描述](http://img.blog.csdn.net/20170624150723543?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTXJMZXZvNTIw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
