@@ -33,4 +33,9 @@
       - **你的github名字-你的延伸项目名字（文件夹）**
       - 提交方式.md
       
+
+## 如何进行pull request？
+
+> 例子可以看这里 [使用github进行项目管理与提交](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86/Tutorial_%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86.md)
+
 ## 我会在两天内进行回复和更新，期待共同开发者！
