@@ -27,28 +27,19 @@
 
 
 
-## About Further Project
+## Join Us
+
+### About Tutorial Project
+
+- 这是一个开源项目，只要你有想法，并且付诸实践，欢迎进行tutorial的提交，我会以最短的时间内进行回复，希望能遇到各路大神和有趣的项目共同学习
+- 提交方式见：[CONTRIBUTING.md](https://github.com/MrLevo520/Mini-Python-Project/blob/master/CONTRIBUTING.md)
+
+### About Further Project
 
 - 对于想对项目进行练习并且展示的童鞋，你可以在该项目的子类furtherProject下提交自己的项目文件夹，欢迎对项目进行延伸和加入自己的想法并提交，给更多的童鞋展示你不一样的想法~
-- 提交方式：请在相应project下的furtherProject文件夹下进行提交，提交方式请阅读furtherProject文件夹中的提交方式.md文件
-
-> 例子可以看这里 [使用github进行项目管理与提交](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86/Tutorial_%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86.md)
+- 提交方式见：[CONTRIBUTING.md](https://github.com/MrLevo520/Mini-Python-Project/blob/master/CONTRIBUTING.md)
 
 ***目前提交的furtherProject如下***
 
 - [**twolun-刷暴京东验证码**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB/furtherProject/twolun-%E5%88%B7%E6%9A%B4%E4%BA%AC%E4%B8%9C%E9%AA%8C%E8%AF%81%E7%A0%81)
 
-
-
-
-## Join Us
-
-- 这是一个开源项目，只要你有想法，并且付诸实践，欢迎进行tutorial的提交，我会以最短的时间内进行回复，希望能遇到各路大神和有趣的项目共同学习
-- 提交方式：希望tutorial有以下几个主要板块构成，书写请用markdown，推荐一个编辑器Typora
-  - 环境
-  - 目的
-  - 效果
-  - 代码
-  - 注意点
-  - 致谢
-- 我会在两天内进行回复和更新，期待共同开发者！
