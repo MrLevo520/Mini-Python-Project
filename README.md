@@ -11,7 +11,7 @@
   - [**MrLevo520-自动化一键登录**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95)
   - [**MrLevo520-自动续借图书馆书籍**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D)
   - [**MrLevo520-豆瓣数据爬取与分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90)
-  - [**Mrlevo520-618电商价格分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618%E7%94%B5%E5%95%86%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90)
+  - [**Mrlevo520-618电商价格分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618%E7%94%B5%E5%95%86%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90) 
   - [**MrLevo520-验证码自动识别**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB)
 - 关于纯小白，没有一点语言基础的童鞋，希望你好好看完[廖雪峰的教程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)，这是一个非常好的入门教程
 
