@@ -12,6 +12,7 @@
   - [**MrLevo520-自动续借图书馆书籍**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D)
   - [**MrLevo520-豆瓣数据爬取与分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90)
   - [**Mrlevo520-618价格分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/Mrlevo520-618%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90)
+  - [**MrLevo520-验证码自动识别**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB)
 - 关于纯小白，没有一点语言基础的童鞋，希望你好好看完[廖雪峰的教程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)，这是一个非常好的入门教程
 
 
@@ -28,12 +29,14 @@
 
 ## About Further Project
 
-- 对于想对项目进行练习并且展示的童鞋，你可以在该项目的子类下提交自己的项目文件夹，欢迎对项目进行延伸和加入自己的想法并提交，更更多的童鞋展示你不一样的想法~
+- 对于想对项目进行练习并且展示的童鞋，你可以在该项目的子类furtherProject下提交自己的项目文件夹，欢迎对项目进行延伸和加入自己的想法并提交，给更多的童鞋展示你不一样的想法~
 - 提交方式：请在相应project下的furtherProject文件夹下进行提交，提交方式请阅读furtherProject文件夹中的提交方式.md文件
 
 > 例子可以看这里 [使用github进行项目管理与提交](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86/Tutorial_%E4%BD%BF%E7%94%A8Git%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%A1%B9%E7%9B%AE%E8%BF%9B%E8%A1%8C%E7%AE%A1%E7%90%86.md)
 
+***目前提交的furtherProject如下***
 
+- [**twolun-刷暴京东验证码**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB/furtherProject/twolun-%E5%88%B7%E6%9A%B4%E4%BA%AC%E4%B8%9C%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 
 
