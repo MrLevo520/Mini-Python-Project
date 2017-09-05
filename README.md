@@ -42,4 +42,5 @@
 ***目前提交的furtherProject如下***
 
 - [**twolun-刷暴京东验证码**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB/furtherProject/twolun-%E5%88%B7%E6%9A%B4%E4%BA%AC%E4%B8%9C%E9%AA%8C%E8%AF%81%E7%A0%81)
+- [**Wwivywwivy-51job简历自动刷新**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/furtherProject/wwivywwivy-51job)
 
