@@ -1,0 +1,31 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import time
+from selenium import webdriver
+driver = webdriver.Chrome(r'chromedriver的路径')
+driver.get('https://login.51job.com/login.php?lang=c&url=http%3A%2F%2Fwww.51job.com%2F')
+
+#账号填充输入
+elem_user = driver.find_element_by_id('loginname')
+elem_psw = driver.find_element_by_id('password')
+
+#可以自己修改登录名和账户密码
+elem_user.send_keys('自己的账号')
+elem_psw.send_keys('自己的密码')
+
+#点击登录
+driver.find_element_by_xpath('//*[@id="signup"]/div[5]').click()
+driver.find_element_by_xpath('//*[@id="login_btn"]').click()
+
+#点击刷新,修改i可以修改点击次数
+i=5
+while i>0:
+    driver.find_element_by_xpath('//*[@id="refreshresume"]').click()
+    time.sleep(6)
+    i = i-1
+
+print 'log in...'
+print '---------------------------------'
+time.sleep(1)
+
+#driver.quit()
