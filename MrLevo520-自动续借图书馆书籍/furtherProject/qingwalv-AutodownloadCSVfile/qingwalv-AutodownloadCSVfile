@@ -1,0 +1,41 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# Author:qingwalv
+
+import os
+from selenium import webdriver
+import selenium.webdriver.support.ui as ui
+import time
+import random
+
+#载入Firefox浏览器的本机Profile打开需要的网页。
+PostUrl = "https://www.printos.com/pb/#/printBeatHomeView" #填写需要下载的页面地址
+#指定本机Profile的路径，也可以driver.set_preference()单独设置多个默认参数，包括浏览器插件。
+profile = webdriver.FirefoxProfile(r'C:\Users\cuiyan\AppData\Roaming\Mozilla\Firefox\Profiles\yn80ouvt.default')  
+driver = webdriver.Firefox(profile) #火狐浏览器使用本机的Profile，提前设置好需要的参数，这里主要用于默认下载路径和默认下载方式。
+driver.get(PostUrl)
+time.sleep(random.randint(10, 12))
+
+#选择HP indigo Press Performance卡片
+click_wbic = driver.find_element_by_xpath("html/body/gz-body-wrap/div/div/md-content/gz-view-container/ng-transclude/ui-view/div/div/div/div[2]/devices-toolbar/div/div[2]/div/div[3]").click()
+print('Device...')
+time.sleep(random.randint(3, 6))
+
+#等刷出元素
+wait1 = ui.WebDriverWait(driver,20)
+wait1.until(lambda driver: driver.find_element_by_xpath("html/body/gz-body-wrap/div/div/md-content/gz-view-container/ng-transclude/ui-view/div/div/div/div[1]/div[1]/md-content/div/md-tabs/md-tabs-content-wrapper/md-tab-content[2]/div/md-content/press-state-distribution/div/div[1]/div/div[1]/div[1]/div[2]/pb-custom-export/md-menu/div[1]/i"))
+
+#点击下载按钮
+click_dbtn = driver.find_element_by_xpath("html/body/gz-body-wrap/div/div/md-content/gz-view-container/ng-transclude/ui-view/div/div/div/div[1]/div[1]/md-content/div/md-tabs/md-tabs-content-wrapper/md-tab-content[2]/div/md-content/press-state-distribution/div/div[1]/div/div[1]/div[1]/div[2]/pb-custom-export/md-menu/div[1]/i").click()
+print('Start...')
+time.sleep(random.randint(2, 4))
+
+#在弹出的菜单中选择需要下载的文件
+driver.switch_to_window(driver.window_handles[0]) #定位弹出的第一个页面，也就是当前页面
+click_markdown = driver.find_element_by_xpath("html/body/div[3]/md-menu-content/md-menu-item[4]").click()
+print('Downloading...')
+time.sleep(random.randint(2, 4))
+
+#关闭浏览器
+time.sleep(random.randint(20, 25))
+driver.close() 
