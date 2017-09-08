@@ -36,13 +36,13 @@
 
 ***流程和以前的动态页面抓取一致，选择需要的url之后进行元素点击操作，目的是为了选中需要比较价格的机型，这都么有问题，我以前写过很多关于phantomjs和selenium的动态页面处理的博客，大家如果只是想参考代码，可以移步[这里参考](http://blog.csdn.net/MrLevo520/article/category/6321608)，主要将一些注意点***
 
-  1. A:元素加载过程中出现can't find element问题
+    1. A:元素加载过程中出现can't find element问题
     Q: 首先确定自己的元素位置是否写对，建议使用xpath的方法定位元素，再chrom上直接可用copy xpath，其余都对的情况可以加上wait等待时间，[参考这里](http://blog.csdn.net/mrlevo520/article/details/52397305)
-  2. A:如果ip被封了，connection refused
+    2. A:如果ip被封了，connection refused
     Q: 请参考[Python爬虫防封杀方法集合](http://blog.csdn.net/mrlevo520/article/details/52397305)
-  3. Q:动态页面加载过程中，商家交换了商品的次序，导致获取到的div位置不正确，怎么办？
+    3. Q:动态页面加载过程中，商家交换了商品的次序，导致获取到的div位置不正确，怎么办？
     A: 解决方法，额，我是每天看一下log，看看有没有不正常的，不正常就kill任务然后修改位置，再接着跑，一般来说，商家不会闲着无聊去修改位置的，另一个解法是对之后的结果手动清洗，如果价格与之前的价格差值大过一定范围，则直接认为是噪声数据，毕竟，怎么可能价格涨跌超过1000的呢，还有一个解法是，确定点击元素的值代表是什么型号，然后点击的价格就是什么型号的了，这个我懒得做了。。。。
-  4. Q:我想要及时知道哪家店价格已经到我的接受阈值了，怎么通知我？
+    4. Q:我想要及时知道哪家店价格已经到我的接受阈值了，怎么通知我？
     A:写监控邮件,当价格低于某个阈值，直接触发邮件功能，邮件如何书写，请参考，这个是直接可用的[@Kevin_zhai的博客](http://blog.csdn.net/kevin_zhai/article/details/47720789)不再赘述
 
 
@@ -132,7 +132,7 @@ for shopname in shop.keys():
 开搞-数据分析
 ----
 
-> 这里就用到了前端的一点点知识了，你可以不用理解这是搞的什么，替换数据会不会？可以参考我写的一点小白教程[echarts小白入门](http://blog.csdn.net/mrlevo520/article/details/54603300)实在自己懒得写的话，我写好了，你不会懒得下载吧[echarts演示价格趋势](http://download.csdn.net/detail/mrlevo520/9879581),如果想线上访问，请看这里[echarts价格趋势](https://mrlevo520.github.io/Mini-Python-Project//Mrlevo520-618%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90/showData/618echarts_show.html)
+> 这里就用到了前端的一点点知识了，你可以不用理解这是搞的什么，替换数据会不会？可以参考我写的一点小白教程[echarts小白入门](http://blog.csdn.net/mrlevo520/article/details/54603300)实在自己懒得写的话，我写好了，你不会懒得下载吧[echarts演示价格趋势](http://download.csdn.net/detail/mrlevo520/9879581),如果想线上访问，请看这里[echarts价格趋势](https://mrlevo520.github.io/Mini-Python-Project/MrLevo520-618%E7%94%B5%E5%95%86%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90/showData/618echarts_show.html)
 
 ![这里写图片描述](http://img.blog.csdn.net/20170624150723543?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTXJMZXZvNTIw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
