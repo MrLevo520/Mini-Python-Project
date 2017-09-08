@@ -22,7 +22,7 @@ pip install selenium
 官网http://phantomjs.org/下载PhantomJS解压后如下图所示：
 ```
 
-![下载软件](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/%E4%B8%8B%E8%BD%BD%E8%BD%AF%E4%BB%B6.png)
+![下载软件](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/%E4%B8%8B%E8%BD%BD%E8%BD%AF%E4%BB%B6.png)
 
 测试安装是否成功：
 
@@ -37,7 +37,7 @@ pip install selenium
 >>> print news.text
 ```
 
-会报错： ![报错信息](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/%E6%8A%A5%E9%94%99%E4%BF%A1%E6%81%AF.png)
+会报错： ![报错信息](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/%E6%8A%A5%E9%94%99%E4%BF%A1%E6%81%AF.png)
 
 按照错误信息里的路径（本截图非当时报错信息）：
 
@@ -196,7 +196,7 @@ plt.show()
 wc.to_file('mymusic2.png')  # 把词云保存下来 
 ```
 
- 得到以下词云图：![mymusic2](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/mymusic2.png)
+ 得到以下词云图：![mymusic2](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/mymusic2.png)
 
 ```
 # -*- coding: utf-8 -*-
@@ -245,7 +245,7 @@ plt.show()
 wc.to_file('mymusic3.png')  # 把词云保存下来 
 ```
 
- 变了个样子方块字：![mymusic3](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/mymusic3.png)
+ 变了个样子方块字：![mymusic3](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/mymusic3.png)
 
 ## SHOW数据-ROUND2
 
@@ -322,7 +322,7 @@ print dict_lang
 {u'fr': 3, u'en': 26, u'zh': 71, u'pt': 3, u'ko': 1, u'de': 7, u'tr': 3, u'it': 8, u'es': 7, u'vi': 1, u'nl': 1, u'ja': 35, u'pl': 4}
 ```
 
- ![echarts](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/echarts.png)
+ ![echarts](https://github.com/zxylina/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/echarts.png)
 
 ```
 <!DOCTYPE html>
