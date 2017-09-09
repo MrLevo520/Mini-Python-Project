@@ -1,0 +1,39 @@
+[INFO  - 2017-09-09T07:16:07.963Z] GhostDriver - Main - running on port 54783
+[INFO  - 2017-09-09T07:16:09.434Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-09T07:16:09.434Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - page.customHeaders:  - {}
+[INFO  - 2017-09-09T07:16:09.434Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-09T07:16:09.434Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c0d3a6e0-952e-11e7-81c4-3356c2f47191
+[ERROR - 2017-09-09T07:16:25.401Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(t,r({},n,e[n]))')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-09T07:16:25.401Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  reduce (:0)
+  o (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  value (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  e (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  forEach (:0)
+  o (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  t (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-09T07:16:37.377Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(t,r({},n,e[n]))')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-09T07:16:37.378Z] Session [c0d3a6e0-952e-11e7-81c4-3356c2f47191] - page.onError - stack:
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  reduce (:0)
+  o (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  value (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  e (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  forEach (:0)
+  o (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  t (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+  (anonymous function) (https://img3.doubanio.com/f/adjs/6c199f055bafc7bf714152366eafeebc0db8a564/ad.release.js:1)
+
+  phantomjs://platform/console++.js:263 in error
