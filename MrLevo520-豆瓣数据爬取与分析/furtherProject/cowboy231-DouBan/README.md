@@ -30,7 +30,7 @@
 
 1. work9.py
 
-![](http://ww1.sinaimg.cn/large/c5b3e5fely1fjdlqmiv1jj20dt0a2jrq.jpg)
+![1](http://ww1.sinaimg.cn/large/c5b3e5fely1fjdlqmiv1jj20dt0a2jrq.jpg)
 
 
 
@@ -38,7 +38,7 @@
 
    图表由1个折线图和一个饼图组成
 
-   ![2017-09-04_195451](img\195451.png)
+   ![2017-09-04_195451](http://ww1.sinaimg.cn/large/c5b3e5fely1fjdlqmlvnaj20ha0akgm1.jpg)
 
    折线图部分，坐标轴
 
