@@ -1,18 +1,72 @@
 # Awesome Mini Python Projects For Freshman
 
+Table of Contents
+-----------------
+
+   * [Awesome Mini Python Projects For Freshman](#awesome-mini-python-projects-for-freshman)
+      * [What's this?](#whats-this)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-MySQL加密存储"><strong>MrLevo520-MySQL加密存储</strong></a>](#mrlevo520-mysql加密存储)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-有道翻译小软件"><strong>MrLevo520-有道翻译小软件</strong></a>](#mrlevo520-有道翻译小软件)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-简易GUI计算器"><strong>MrLevo520-简易GUI计算器</strong></a>](#mrlevo520-简易gui计算器)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-网易云音乐爬取分析"><strong>MrLevo520-网易云音乐爬取分析</strong></a>](#mrlevo520-网易云音乐爬取分析)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-自动化一键登录"><strong>MrLevo520-自动化一键登录</strong></a>](#mrlevo520-自动化一键登录)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-自动续借图书馆书籍"><strong>MrLevo520-自动续借图书馆书籍</strong></a>](#mrlevo520-自动续借图书馆书籍)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-豆瓣数据爬取与分析"><strong>MrLevo520-豆瓣数据爬取与分析</strong></a>](#mrlevo520-豆瓣数据爬取与分析)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618电商价格分析"><strong>Mrlevo520-618电商价格分析</strong></a>](#mrlevo520-618电商价格分析)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-验证码自动识别"><strong>MrLevo520-验证码自动识别</strong></a>](#mrlevo520-验证码自动识别)
+      * [About Python&amp;IDE](#about-pythonide)
+      * [Join Us](#join-us)
+         * [About Tutorial Project](#about-tutorial-project)
+         * [About Further Project](#about-further-project)
+            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-验证码自动识别/furtherProject/twolun-刷暴京东验证码"><strong>twolun-刷暴京东验证码</strong></a>](#twolun-刷暴京东验证码)
+            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-自动化一键登录/furtherProject/wwivywwivy-51job"><strong>Wwivywwivy-51job简历自动刷新</strong></a>](#wwivywwivy-51job简历自动刷新)
+            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-豆瓣数据爬取与分析/furtherProject/ZLFlyApple-douban"><strong>ZLFlyApple-豆瓣冷门电影分析</strong></a>](#zlflyapple-豆瓣冷门电影分析)
+            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-自动续借图书馆书籍/furtherProject/qingwalv-AutodownloadCSVfile"><strong>qingwalv-浏览器下载文件</strong></a>](#qingwalv-浏览器下载文件)
+            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-网易云音乐爬取分析/furtherProject/zxylina-网易云音乐爬取分析/zxylina-网易云音乐爬取分析.md"><strong>zxylina-网易云音乐分析</strong></a>](#zxylina-网易云音乐分析)
+
 ## What's this?
 
-- 这是一个学习python上手的项目集合，会挑选出好玩有趣的python小项目进行练手，进行实际项目从0到1的开发，每个项目都会有其目的和意义，从中可以发掘更多有趣的项目，欢迎尝试改造！
-- 每个project中都会有一篇tutorial来告诉你如何进行这个项目，当然我也会将项目同步更新在自己的博客中，如有疑问请issue或者博客留言→_→[mrlevo的博客](http://blog.csdn.net/mrlevo520/article)，目前项目包含如下，我会根据项目进行更新列表
-  - [**MrLevo520-MySQL加密存储**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-MySQL%E5%8A%A0%E5%AF%86%E5%AD%98%E5%82%A8) 
-  - [**MrLevo520-有道翻译小软件**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%B0%8F%E8%BD%AF%E4%BB%B6)
-  - [**MrLevo520-简易GUI计算器**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%AE%80%E6%98%93GUI%E8%AE%A1%E7%AE%97%E5%99%A8)
-  - [**MrLevo520-网易云音乐爬取分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90)
-  - [**MrLevo520-自动化一键登录**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95)
-  - [**MrLevo520-自动续借图书馆书籍**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D)
-  - [**MrLevo520-豆瓣数据爬取与分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90)
-  - [**Mrlevo520-618电商价格分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618%E7%94%B5%E5%95%86%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90) 
-  - [**MrLevo520-验证码自动识别**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB)
+​	**这是一个学习python上手的项目集合，会挑选出好玩有趣的python小项目进行练手，进行实际项目从0到1的开发，每个项目都会有其目的和意义，从中可以发掘更多有趣的项目，欢迎尝试改造！**
+
+​	***每个project中都会有一篇tutorial来告诉你如何进行这个项目，当然我也会将项目同步更新在自己的博客中，如有疑问请issue或者博客留言→_→[mrlevo的博客](http://blog.csdn.net/mrlevo520/article)，目前项目包含如下，我会根据项目进行更新列表***
+### [**MrLevo520-MySQL加密存储**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-MySQL%E5%8A%A0%E5%AF%86%E5%AD%98%E5%82%A8)
+
+![加密数据库](ImageStore/加密数据库.jpg)
+
+### [**MrLevo520-有道翻译小软件**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%B0%8F%E8%BD%AF%E4%BB%B6)
+
+![翻译软件](ImageStore/翻译软件.png)
+
+### [**MrLevo520-简易GUI计算器**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%AE%80%E6%98%93GUI%E8%AE%A1%E7%AE%97%E5%99%A8)
+
+![计算器](ImageStore/计算器.png)
+
+### [**MrLevo520-网易云音乐爬取分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90)
+
+![一键登录](ImageStore/网易云音乐.png)
+
+### [**MrLevo520-自动化一键登录**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95)
+
+![一键登录](ImageStore/一键登录.gif)
+
+### [**MrLevo520-自动续借图书馆书籍**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D)
+
+![图书馆续借](ImageStore/图书馆续借.gif)
+
+### [**MrLevo520-豆瓣数据爬取与分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90)
+
+![豆瓣电影](ImageStore/豆瓣电影.jpeg)
+
+### [**Mrlevo520-618电商价格分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618%E7%94%B5%E5%95%86%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90) 
+
+- 动态渲染请点击 [618价格对比](https://mrlevo520.github.io/Mini-Python-Project/MrLevo520-618%E7%94%B5%E5%95%86%E4%BB%B7%E6%A0%BC%E5%88%86%E6%9E%90/showData/618echarts_show.html)
+
+![618价格](ImageStore/618价格.png)
+
+### [**MrLevo520-验证码自动识别**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB)
+
+![验证码识别](ImageStore/验证码识别.gif)
+
 - 关于纯小白，没有一点语言基础的童鞋，希望你好好看完[廖雪峰的教程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)，这是一个非常好的入门教程
 
 
@@ -41,6 +95,16 @@
 
 ***目前提交的furtherProject如下***
 
-- [**twolun-刷暴京东验证码**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB/furtherProject/twolun-%E5%88%B7%E6%9A%B4%E4%BA%AC%E4%B8%9C%E9%AA%8C%E8%AF%81%E7%A0%81)
-- [**Wwivywwivy-51job简历自动刷新**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/furtherProject/wwivywwivy-51job)
+#### 1. [**twolun-刷暴京东验证码**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB/furtherProject/twolun-%E5%88%B7%E6%9A%B4%E4%BA%AC%E4%B8%9C%E9%AA%8C%E8%AF%81%E7%A0%81)
 
+#### 2. [**Wwivywwivy-51job简历自动刷新**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/furtherProject/wwivywwivy-51job)
+
+#### 3. [**ZLFlyApple-豆瓣冷门电影分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/ZLFlyApple-douban)
+
+![](https://raw.githubusercontent.com/ZLFlyApple/DTTest/master/%E5%86%B7%E9%97%A8%E4%BD%B3%E7%89%87top400%E5%B9%B4%E4%BB%A3%E5%88%86%E5%B8%83.png)
+
+#### 4. [**qingwalv-浏览器下载文件**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D/furtherProject/qingwalv-AutodownloadCSVfile)
+
+#### 5. [**zxylina-网易云音乐分析**](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90.md)
+
+![网易云音乐further](ImageStore/网易云音乐further.png)
