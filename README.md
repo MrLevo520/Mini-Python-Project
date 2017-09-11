@@ -22,9 +22,11 @@ Table of Contents
             * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-自动化一键登录/furtherProject/wwivywwivy-51job"><strong>Wwivywwivy-51job简历自动刷新</strong></a>](#wwivywwivy-51job简历自动刷新)
             * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-豆瓣数据爬取与分析/furtherProject/ZLFlyApple-douban"><strong>ZLFlyApple-豆瓣冷门电影分析</strong></a>](#zlflyapple-豆瓣冷门电影分析)
             * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-自动续借图书馆书籍/furtherProject/qingwalv-AutodownloadCSVfile"><strong>qingwalv-浏览器下载文件</strong></a>](#qingwalv-浏览器下载文件)
-            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-网易云音乐爬取分析/furtherProject/zxylina-网易云音乐爬取分析/zxylina-网易云音乐爬取分析.md"><strong>zxylina-网易云音乐分析</strong></a>](#zxylina-网易云音乐分析)
+            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-网易云音乐爬取分析/furtherProject/zxylina-网易云音乐爬取分析/zxylina-网易云音乐爬取分析.md"><strong>zxylina-网易云音乐分析</strong></a>](#zxylina-网易云音乐分析)            
            
            * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/love-apple-%E8%B1%86%E7%93%A3%E5%86%B7%E9%97%A8%E7%94%B5%E5%BD%B1%E5%88%86%E6%9E%90"><strong>love-apple-豆瓣冷门电影分析</strong></a>](#love-apple-豆瓣冷门电影分析2)
+           
+           * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan"><strong>cowboy231-豆瓣冷门电影分析3</strong></a>](#cowboy231-豆瓣冷门电影分析3)
 
 ## What's this?
 
@@ -109,8 +111,12 @@ Table of Contents
 
 ![](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/love-apple-%E8%B1%86%E7%93%A3%E5%86%B7%E9%97%A8%E7%94%B5%E5%BD%B1%E5%88%86%E6%9E%90/1.PNG)
 
-#### 5. [**qingwalv-浏览器下载文件**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D/furtherProject/qingwalv-AutodownloadCSVfile)
+#### 5. [**cowboy231-豆瓣冷门电影分析3**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan)
 
-#### 6. [**zxylina-网易云音乐分析**](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90.md)
+![](https://raw.githubusercontent.com/cowboy231/Mini-Python-Project/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/195451.png)
+
+#### 6. [**qingwalv-浏览器下载文件**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E8%87%AA%E5%8A%A8%E7%BB%AD%E5%80%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B9%A6%E7%B1%8D/furtherProject/qingwalv-AutodownloadCSVfile)
+
+#### 7. [**zxylina-网易云音乐分析**](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90.md)
 
 ![网易云音乐further](ImageStore/网易云音乐further.png)
