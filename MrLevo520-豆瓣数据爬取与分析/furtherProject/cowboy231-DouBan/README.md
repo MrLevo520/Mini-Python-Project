@@ -30,7 +30,7 @@
 
 1. work9.py
 
-![1](http://ww1.sinaimg.cn/large/c5b3e5fely1fjdlqmiv1jj20dt0a2jrq.jpg)
+![](https://raw.githubusercontent.com/cowboy231/Mini-Python-Project/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/163851.png)
 
 
 
@@ -38,23 +38,23 @@
 
    图表由1个折线图和一个饼图组成
 
-   ![2017-09-04_195451](http://ww1.sinaimg.cn/large/c5b3e5fely1fjdlqmlvnaj20ha0akgm1.jpg)
+   ![2017-09-04_195451](https://raw.githubusercontent.com/cowboy231/Mini-Python-Project/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/195451.png)
 
    折线图部分，坐标轴
 
-   ![2017-09-09_170851](img\170851.png)
+   ![2017-09-09_170851](https://github.com/cowboy231/Mini-Python-Project/blob/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/170851.png)
 
    数据填充
 
-   ![2017-09-09_171821](img\171821.png)
+   ![2017-09-09_171821](https://raw.githubusercontent.com/cowboy231/Mini-Python-Project/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/171821.png)
 
 饼图部分
 
-​	![2017-09-09_172311](img\172311.png)
+​	![2017-09-09_172311](https://raw.githubusercontent.com/cowboy231/Mini-Python-Project/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/172311.png)
 
 使用echarts的图表工具转换数据
 
-​	![2017-09-09_174243](img\174243.png)
+​	![2017-09-09_174243](https://github.com/cowboy231/Mini-Python-Project/blob/master/MrLevo520-%E8%B1%86%E7%93%A3%E6%95%B0%E6%8D%AE%E7%88%AC%E5%8F%96%E4%B8%8E%E5%88%86%E6%9E%90/furtherProject/cowboy231-DouBan/img/174243.png)
 
 ## 延伸
 
