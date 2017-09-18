@@ -1,4 +1,4 @@
-**From [利用N-Gram模型概括数据（Python描述)](http://blog.csdn.net/mrlevo520/article/details/52149545)**
+***From [利用N-Gram模型概括数据（Python描述)](http://blog.csdn.net/mrlevo520/article/details/52149545)***
 
 Python 2.7
 IDE PyCharm 5.0.3
@@ -134,7 +134,7 @@ print(sortedNGrams)
 Deeper
 ------
 
-> 完整代码和测试图都在同级目录下的`2_gram.ipynb`,请用jupyter打开，不知道jupyter？百度啊，自己装
+> 完整代码和测试图都在同级目录下的`2_gram.ipynb`,如要测试请手动下载工程，然后运行jupyter即可，不知道jupyter？百度啊，自己装
 
 ```
 # -*- coding: utf-8 -*-
@@ -230,6 +230,14 @@ for top3 in range(3):
 从上述栗子我们可以看出，我们对有用词进行了删选，去掉了连接词，取出核心词排序，然后再把包含核心词的句子抓出来，这里我只是抓了前三句，对于有两三百个句子的文章，用三四句话概括起来，我想还是比较神奇的。
 
 
+
+----
+
+## show data
+
+> 词云都玩腻了，详见另一个项目的词云：[[MrLevo520-网易云音乐爬取分析](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90)]
+
+![](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-N-gram%E6%A6%82%E6%8B%AC%E5%85%A8%E6%96%87/save.png?raw=true)
 
 ----------
 
