@@ -14,7 +14,7 @@ Table of Contents
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-豆瓣数据爬取与分析"><strong>MrLevo520-豆瓣数据爬取与分析</strong></a>](#mrlevo520-豆瓣数据爬取与分析)
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618电商价格分析"><strong>Mrlevo520-618电商价格分析</strong></a>](#mrlevo520-618电商价格分析)
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-验证码自动识别"><strong>MrLevo520-验证码自动识别</strong></a>](#mrlevo520-验证码自动识别)
-         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-N-gram概括全文"><strong>Mrlevo520-N-gram概括全文</strong></a>](#mrlevo520-N-gram概括全文)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-N-gram概括全文"><strong>MrLevo520-N-gram概括全文</strong></a>](#mrlevo520-N-gram概括全文)
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-使用Git对自己项目进行管理"><strong>MrLevo520-使用Git对自己项目进行管理</strong></a>](#MrLevo520-使用Git对自己项目进行管理)
       * [About Python&amp;IDE](#about-pythonide)
       * [Join Us](#join-us)
