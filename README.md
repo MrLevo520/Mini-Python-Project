@@ -14,6 +14,7 @@ Table of Contents
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-豆瓣数据爬取与分析"><strong>MrLevo520-豆瓣数据爬取与分析</strong></a>](#mrlevo520-豆瓣数据爬取与分析)
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-618电商价格分析"><strong>Mrlevo520-618电商价格分析</strong></a>](#mrlevo520-618电商价格分析)
          * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-验证码自动识别"><strong>MrLevo520-验证码自动识别</strong></a>](#mrlevo520-验证码自动识别)
+         * [<a href="https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-N-gram概括全文"><strong>mrlevo520-N-gram概括全文</strong></a>](#mrlevo520-N-gram概括全文)
       * [About Python&amp;IDE](#about-pythonide)
       * [Join Us](#join-us)
          * [About Tutorial Project](#about-tutorial-project)
@@ -42,6 +43,10 @@ Table of Contents
 ### [**MrLevo520-简易GUI计算器**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%AE%80%E6%98%93GUI%E8%AE%A1%E7%AE%97%E5%99%A8)
 
 ![计算器](ImageStore/计算器.png)
+
+### [**MrLevo520-N-gram概括全文**](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-N-gram%E6%A6%82%E6%8B%AC%E5%85%A8%E6%96%87/Tutorial_N-gram%E6%A6%82%E6%8B%AC%E5%86%85%E5%AE%B9.md)
+
+![n-gram](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-N-gram%E6%A6%82%E6%8B%AC%E5%85%A8%E6%96%87/save.png?raw=true)
 
 ### [**MrLevo520-网易云音乐爬取分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90)
 
