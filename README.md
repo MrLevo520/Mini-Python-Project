@@ -124,3 +124,6 @@ Table of Contents
 #### 7. [**zxylina-网易云音乐分析**](https://github.com/MrLevo520/Mini-Python-Project/blob/master/MrLevo520-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/furtherProject/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90/zxylina-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%88%AC%E5%8F%96%E5%88%86%E6%9E%90.md)
 
 ![网易云音乐further](ImageStore/网易云音乐further.png)
+
+#### 8. [**ZLFlyApple-奥巴马演讲稿分析**](https://github.com/MrLevo520/Mini-Python-Project/tree/master/MrLevo520-N-gram%E6%A6%82%E6%8B%AC%E5%85%A8%E6%96%87/furtherProject/ZLFlyApple-ngram)
+![奥巴马演讲稿分析](https://raw.githubusercontent.com/ZLFlyApple/DTTest/master/%E5%90%AC%E4%BC%97%E5%8F%8D%E6%98%A0%E8%AE%A1%E6%95%B0.png)
