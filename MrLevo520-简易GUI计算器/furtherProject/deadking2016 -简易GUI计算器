@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+from tkinter import *
+import difflib
+root=Tk()
+root.title('乞丐规则器')
+root.geometry()
+Label_root = Label(root,text='规则运算')
+
+def Plus(a,b):
+    return round(a+b,2)
+
+def Power(a,b):
+    return round(a**b,2)
+
+def Answ():
+    if lb.get(lb.curselection()) == '加':
+        Ans.insert(END,'加法规则：' + str(Plus(float(var_first.get()),float(var_second.get()))))
+    if lb.get(lb.curselection()) == '幂':
+        Ans.insert(END,'幂指数规则' + str(Power(float(var_first.get()),float(var_second.get()))))
+
+def Clean():
+    input_num_first.delete(0,END)
+    input_num_second.delete(0,END)
+    Ans.delete(9,END)
+
+frame_input = Frame(root)
+Label_input = Label(frame_input,text='框架')
+var_first = StringVar()
+var_second = StringVar()
+input_num_first = Entry(frame_input,textvariable = var_first)
+input_num_second = Entry(frame_input,textvariable = var_second)
+
+# lb为输入框
+lb = Listbox(frame_input)
+list_item = ['加','幂']
+for i in list_item:
+    lb.insert(END,i)
+
+# Ans为输出框
+frame_output = Frame(root)
+Label_output = Label(frame_output,text='计算结果')
+Ans = Listbox(frame_output,height=5)
+
+calc = Button(frame_output,text = '计算',command = Answ)
+clean = Button(frame_output,text = '清除',command = Clean)
+
+scr1 = Scrollbar(frame_input)
+lb.configure(yscrollcommand = scr1.set)
+scr1['command']=lb.yview
+scr2 = Scrollbar(frame_output)
+Ans.configure(yscrollcommand = scr2.set)
+scr2['command'] = Ans.yview
+
+Label_root.pack(side = TOP)
+frame_input.pack(side = TOP)
+Label_input.pack(side = LEFT)
+
+input_num_first.pack(side=LEFT)
+lb.pack(side = LEFT)
+scr1.pack(side=LEFT,fill=Y)
+input_num_second.pack(side = RIGHT)
+
+frame_output.pack(side=TOP)
+Label_output.pack(side=LEFT)
+calc.pack(side=LEFT)
+clean.pack(side=LEFT)
+Ans.pack(side=LEFT)
+scr2.pack(side=LEFT,fill=Y)
+
+root.mainloop()
